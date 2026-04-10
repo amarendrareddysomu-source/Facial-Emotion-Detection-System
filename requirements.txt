@@ -1,0 +1,6 @@
+opencv-python
+ultralytics
+deep-sort-realtime
+deepface
+plotly
+pandas
